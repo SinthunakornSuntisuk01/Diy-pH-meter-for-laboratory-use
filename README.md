@@ -5,7 +5,7 @@ use in the laboratory. This project is for educational purposes, so feel free to
 
 list of the component 
 1. Arduino UNO (Or any microcontroller you like)
-2. OLED 128x32 i2c (Or other type of display)
+2. OLED 128x64 i2c (Or other type of display)
 3. jumper wire
 4. diymore PH-4502C
 5. BNC pH meter probe E-201C
